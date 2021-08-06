@@ -1,0 +1,17 @@
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.exe
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.deps.json
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.runtimeconfig.json
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.runtimeconfig.dev.json
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.dll
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\VkOnlineStatusChecker.pdb
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.csprojAssemblyReference.cache
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.AssemblyInfoInputs.cache
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.AssemblyInfo.cs
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.csproj.CoreCompileInputs.cache
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.csproj.CopyComplete
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.dll
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.pdb
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\obj\Debug\netcoreapp3.1\VkOnlineStatusChecker.genruntimeconfig.cache
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Hobby\program\VkOnlineStatusChecker\VkOnlineStatusChecker\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
