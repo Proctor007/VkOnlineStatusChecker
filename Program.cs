@@ -75,24 +75,31 @@ namespace VkOnlineStatusChecker
         private static string Parsing(string url)
         {
             string answer;
-            var request = (HttpWebRequest)WebRequest.Create(url);
-            using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
-            using (Stream stream = response.GetResponseStream())
-            using (StreamReader reader = new StreamReader(stream))
+            try
             {
-                answer = reader.ReadToEnd();
+                var request = (HttpWebRequest)WebRequest.Create(url);
+                using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+                using (Stream stream = response.GetResponseStream())
+                using (StreamReader reader = new StreamReader(stream))
+                {
+                    answer = reader.ReadToEnd();
+                }
+                if (answer.Contains("Online"))
+                {
+                    answer = "online";
+                }
+                else if (answer.Contains("Страница доступна только авторизованным пользователям."))
+                {
+                    answer = "hidden";
+                }
+                else
+                {
+                    answer = "offline";
+                }
             }
-            if(answer.Contains("Online"))
+            catch
             {
-                answer = "online";
-            }
-            else if (answer.Contains("Страница доступна только авторизованным пользователям."))
-            {
-                answer = "hidden";
-            }
-            else
-            {
-                answer = "offline";
+                answer = "Error";
             }
             return answer;
         }
